@@ -36,6 +36,7 @@ public class JuicySkillNodeView extends ConstraintLayout {
   private final AppCompatImageView icon;
   private final AppCompatImageView crownLevel;
   private final JuicyTextView crownCount;
+  private final JuicyTextView title;
 
   private int level;
   private int skill;
@@ -56,28 +57,37 @@ public class JuicySkillNodeView extends ConstraintLayout {
     icon = findViewById(R.id.icon);
     crownLevel = findViewById(R.id.levelCrown);
     crownCount = findViewById(R.id.crownCount);
+    title = findViewById(R.id.title);
     final TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.JuicySkillNodeView, defStyleAttr, 0);
     try {
       level = a.getInteger(R.styleable.JuicySkillNodeView_level, 0);
       skill = a.getInteger(R.styleable.JuicySkillNodeView_skill, 1);
       setProgress(a.getFloat(R.styleable.JuicySkillNodeView_progress, 0));
+      setTitle(a.getString(R.styleable.JuicySkillNodeView_title));
     } finally {
       a.recycle();
     }
-    update();
+    updateSkillAndLevel();
+  }
+
+  private void setTitle(String title) {
+    if (title == null) {
+      title = "";
+    }
+    this.title.setText(title);
   }
 
   private void setSkill(int skill) {
     this.skill = skill;
-    update();
+    updateSkillAndLevel();
   }
 
   private void setLevel(int level) {
     this.level = level;
-    update();
+    updateSkillAndLevel();
   }
 
-  private void update() {
+  private void updateSkillAndLevel() {
     icon.setBackgroundResource(LEVEL_BACKGROUNDS[this.level]);
     icon.setImageResource(getResources().getIdentifier("icon_" + LEVEL_ICON_PREFIX[level] + "_" + skill, "drawable", getContext().getPackageName()));
     crownLevel.setImageResource(level <= 1 ? R.drawable.crown_grey_stroked : R.drawable.crown_stroked);

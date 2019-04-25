@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_marginStart="@dimen/juicyLength1"
     android:layout_marginEnd="@dimen/juicyLength1">
 
@@ -23,8 +24,9 @@
             app:layout_constraintHorizontal_chainStyle="spread_inside"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:skill="12"
-            app:level="6"
+            tools:title="Whatever"
+            tools:skill="12"
+            tools:level="6"
             />
 
         <com.doslingo.view.JuicySkillNodeView
@@ -36,8 +38,9 @@
             app:layout_constraintEnd_toStartOf="@+id/skillNode3"
             app:layout_constraintStart_toEndOf="@+id/skillNode1"
             app:layout_constraintTop_toTopOf="parent"
-            app:skill="2"
-            app:level="4"
+            tools:title="Something"
+            tools:skill="2"
+            tools:level="4"
             />
 
         <com.doslingo.view.JuicySkillNodeView
@@ -48,8 +51,9 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/skillNode2"
             app:layout_constraintTop_toTopOf="parent"
-            app:skill="66"
-            app:level="1"
+            tools:title="Else"
+            tools:skill="66"
+            tools:level="1"
             />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </com.doslingo.view.SkillTreeSkillRowView>
