@@ -1,0 +1,189 @@
+{
+  "skills": [
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Introduction",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 1,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Intro",
+        "id": "6a5b92b4287b31db3613f5c74fac02f2",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6a5b92b4287b31db3613f5c74fac02f2/web/2/1.json",
+          "title": "Introduction"
+        },
+        "lessons": 3,
+        "shortName": "Intro",
+        "finishedLessons": 0,
+        "tipsAndNotes": "<h5>Masculine and Feminine Nouns</h5><p>In Spanish all nouns are masculine or feminine. Usually, nouns that end with an \"o\" are masculine, and nouns that end with an \"a\" are feminine. For example, \"manzana\" (apple) is feminine and \"diario\" (newspaper) is masculine.</p><p>The articles \"el\" and \"un\" are used with masculine nouns, and the articles \"la\" and \"una\" are used with feminine nouns. \"The apple\" is \"la manzana\" and \"a newspaper\" is \"un diario.\"</p><h5>Accent Marks</h5><p>Vowels in Spanish can have an accent mark, such as the \"u\" in \"menú\" (menu). One use of the accent mark is to indicate which syllable should be stressed in the pronunciation. For example, in \"teléfono\" (telephone), the second \"e\" has the most stress.</p><p>Accent marks are also used to distinguish homophones. For example, \"él\" and \"el\" are homophones because they have the same pronunciation. However, \"él\" is a masculine pronoun (meaning \"he\" or \"him\") and \"el\" is a masculine article (meaning \"the\").</p><h5>The Second Person Singular</h5><p>\"Tú,\" \"usted\" and \"vos\" are different ways of referring to the second person singular (you). \"Usted\" is the formal way of saying \"you,\" and \"vos\" is used in informal speech in certain countries instead of \"tú.\"</p><p>The three pronouns are synonyms, but they change the way verbs are conjugated. For instance, for the verb \"comer\" (to eat), it is \"tú comes,\" \"usted come,\" and \"vos comés.\"</p><p>The decision of which form of \"you\" to use is regional and cultural, but you can typically use \"usted\" when referring to strangers.</p><h5>Verb Conjugation</h5>\n\n<p>Verb conjugation in Spanish is more complicated than in English. In Spanish, the verb endings change in order to describe who is doing the action and when. For example, for \"comer,\" \"I eat\" is \"yo como\" and \"you eat\" is \"tú comes.\"</p><p>Because the conjugations indicate who is doing the action, it is usually possible to omit the pronoun. For instance instead of saying \"yo como arroz\" (I eat rice), you can say \"como arroz.\"</p>",
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Common Phrases",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Common-Phrases",
+        "id": "b709174f48b5fd4c96f84e34814c7f07",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b709174f48b5fd4c96f84e34814c7f07/web/2/1.json",
+          "title": "Phrases"
+        },
+        "lessons": 3,
+        "shortName": "Phrases",
+        "finishedLessons": 0,
+        "tipsAndNotes": "<h5>Tardes and Noches</h5><p>In English, \"afternoon\" comes before \"evening,\" which in turn comes before \"night.\" In Spanish there are only two words that cover these times of the day: \"tarde\" which means \"afternoon,\" but overlaps with \"evening,\" and \"noche,\" which means \"night\" but also overlaps with \"evening.\" Therefore, at 6:30pm it is ok to say either \"buenas tardes\" or \"buenas noches.\"</p><h5>Buenos Días</h5>\n\n<p>Even though \"buenos días\" literally means \"good days,\" it is used in the mornings to mean \"good morning.\"</p>\n\n<p><strong>Conjugation of 'Hablar'</strong></p>\n<p>Present indicative (presente del indicativo):</p>\n<ul>\n<li>yo hablo </li>\n<li>tú hablas </li>\n<li>usted habla</li>\n<li>él habla</li>\n<li>ella habla</li>\n<li>nosotros/as hablamos</li>\n<li>ustedes hablan</li>\n<li>ellos/ellas hablan</li>\n</ul>\n<p>In Spanish, the most common negative word is \"no\". As an adverb negating a sentence, it always comes immediately before the verb.</p>\n<p>I speak - [Yo] hablo.</p>\n<p>I do not speak - [Yo] <strong><em>no</em></strong> <strong>hablo</strong>.</p>\n<p>He is - [Él] es / está.</p>\n<p>He is not - [Él] <strong><em>no</em></strong> <strong>es / está</strong>.</p>",
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Travel",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Travel",
+        "id": "012b1b9614a6acc89dc865aadcbc86fd",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/012b1b9614a6acc89dc865aadcbc86fd/web/2/1.json",
+          "title": "Travel"
+        },
+        "lessons": 4,
+        "shortName": "Travel",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Restaurant",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Restaurant",
+        "id": "c754d262ea1c6703939811ddc165aa1d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c754d262ea1c6703939811ddc165aa1d/web/2/1.json",
+          "title": "Restaurant"
+        },
+        "lessons": 4,
+        "shortName": "Restaurant",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Family",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 29,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Family",
+        "id": "4c12302b60b06e50c8544689e432660b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4c12302b60b06e50c8544689e432660b/web/2/1.json",
+          "title": "Family"
+        },
+        "lessons": 4,
+        "shortName": "Family",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Christmas",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 65,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Christmas",
+        "id": "e845a3889dfad83ae9b08efb0e9ed616",
+        "lessons": 3,
+        "shortName": "Christmas",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Flirting",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 64,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Flirting",
+        "id": "ed0dd055842648c0fa2ecf525e6e3901",
+        "lessons": 3,
+        "shortName": "Flirting",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Idioms and Proverbs",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 63,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Idioms-and-Proverbs",
+        "id": "4d3f9eeef6226eec0c8176701b8a14ed",
+        "lessons": 2,
+        "shortName": "Idioms",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ]
+  ]
+}

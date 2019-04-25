@@ -1,15 +1,15 @@
-package com.doslingo.view;
+package com.doslingo.skilltree;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
-import android.view.View;
 
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
 import com.doslingo.R;
+import com.doslingo.model.Skill;
 import com.doslingo.typeface.widget.JuicyTextView;
 
 public class JuicySkillNodeView extends ConstraintLayout {
@@ -38,9 +38,6 @@ public class JuicySkillNodeView extends ConstraintLayout {
   private final JuicyTextView crownCount;
   private final JuicyTextView title;
 
-  private int level;
-  private int skill;
-
   public JuicySkillNodeView(Context context) {
     this(context, null);
   }
@@ -59,6 +56,8 @@ public class JuicySkillNodeView extends ConstraintLayout {
     crownCount = findViewById(R.id.crownCount);
     title = findViewById(R.id.title);
     final TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.JuicySkillNodeView, defStyleAttr, 0);
+    final int level;
+    final int skill;
     try {
       level = a.getInteger(R.styleable.JuicySkillNodeView_level, 0);
       skill = a.getInteger(R.styleable.JuicySkillNodeView_skill, 1);
@@ -67,7 +66,21 @@ public class JuicySkillNodeView extends ConstraintLayout {
     } finally {
       a.recycle();
     }
-    updateSkillAndLevel();
+    updateSkillAndLevel(skill, level);
+  }
+
+
+
+  public void bind(Skill skill) {
+    final int level;
+    if (!skill.getAccessible()) {
+      level = 0;
+    } else {
+      level = skill.getFinishedLevels() + 1;
+    }
+    updateSkillAndLevel(skill.getIconId(), level);
+    setTitle(skill.getShortName());
+    setProgress(((float)skill.getFinishedLessons()) / skill.getLessons());
   }
 
   private void setTitle(String title) {
@@ -77,21 +90,17 @@ public class JuicySkillNodeView extends ConstraintLayout {
     this.title.setText(title);
   }
 
-  private void setSkill(int skill) {
-    this.skill = skill;
-    updateSkillAndLevel();
-  }
-
-  private void setLevel(int level) {
-    this.level = level;
-    updateSkillAndLevel();
-  }
-
-  private void updateSkillAndLevel() {
-    icon.setBackgroundResource(LEVEL_BACKGROUNDS[this.level]);
+  private void updateSkillAndLevel(int skill, int level) {
+    icon.setBackgroundResource(LEVEL_BACKGROUNDS[level]);
     icon.setImageResource(getResources().getIdentifier("icon_" + LEVEL_ICON_PREFIX[level] + "_" + skill, "drawable", getContext().getPackageName()));
-    crownLevel.setImageResource(level <= 1 ? R.drawable.crown_grey_stroked : R.drawable.crown_stroked);
-    crownCount.setText(level <= 1 ? "" : String.valueOf(level - 1));
+    if (level <= 1) {
+      crownLevel.setImageResource(R.drawable.crown_grey_stroked);
+      crownCount.setVisibility(GONE);
+    } else {
+      crownLevel.setImageResource(R.drawable.crown_stroked);
+      crownCount.setText(String.valueOf(level - 1));
+      crownCount.setVisibility(VISIBLE);
+    }
   }
 
   public void setProgress(float progress) {

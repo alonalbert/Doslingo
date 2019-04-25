@@ -1,4 +1,4 @@
-package com.doslingo.view;
+package com.doslingo.skilltree;
 
 import android.content.Context;
 import android.content.res.TypedArray;

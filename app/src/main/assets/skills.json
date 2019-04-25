@@ -1,0 +1,3597 @@
+{
+  "skills": [
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Introduction",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 1,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Intro",
+        "id": "6a5b92b4287b31db3613f5c74fac02f2",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6a5b92b4287b31db3613f5c74fac02f2/web/2/1.json",
+          "title": "Introduction"
+        },
+        "lessons": 3,
+        "shortName": "Intro",
+        "finishedLessons": 0,
+        "tipsAndNotes": "<h5>Masculine and Feminine Nouns</h5><p>In Spanish all nouns are masculine or feminine. Usually, nouns that end with an \"o\" are masculine, and nouns that end with an \"a\" are feminine. For example, \"manzana\" (apple) is feminine and \"diario\" (newspaper) is masculine.</p><p>The articles \"el\" and \"un\" are used with masculine nouns, and the articles \"la\" and \"una\" are used with feminine nouns. \"The apple\" is \"la manzana\" and \"a newspaper\" is \"un diario.\"</p><h5>Accent Marks</h5><p>Vowels in Spanish can have an accent mark, such as the \"u\" in \"menú\" (menu). One use of the accent mark is to indicate which syllable should be stressed in the pronunciation. For example, in \"teléfono\" (telephone), the second \"e\" has the most stress.</p><p>Accent marks are also used to distinguish homophones. For example, \"él\" and \"el\" are homophones because they have the same pronunciation. However, \"él\" is a masculine pronoun (meaning \"he\" or \"him\") and \"el\" is a masculine article (meaning \"the\").</p><h5>The Second Person Singular</h5><p>\"Tú,\" \"usted\" and \"vos\" are different ways of referring to the second person singular (you). \"Usted\" is the formal way of saying \"you,\" and \"vos\" is used in informal speech in certain countries instead of \"tú.\"</p><p>The three pronouns are synonyms, but they change the way verbs are conjugated. For instance, for the verb \"comer\" (to eat), it is \"tú comes,\" \"usted come,\" and \"vos comés.\"</p><p>The decision of which form of \"you\" to use is regional and cultural, but you can typically use \"usted\" when referring to strangers.</p><h5>Verb Conjugation</h5>\n\n<p>Verb conjugation in Spanish is more complicated than in English. In Spanish, the verb endings change in order to describe who is doing the action and when. For example, for \"comer,\" \"I eat\" is \"yo como\" and \"you eat\" is \"tú comes.\"</p><p>Because the conjugations indicate who is doing the action, it is usually possible to omit the pronoun. For instance instead of saying \"yo como arroz\" (I eat rice), you can say \"como arroz.\"</p>",
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Common Phrases",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Common-Phrases",
+        "id": "b709174f48b5fd4c96f84e34814c7f07",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b709174f48b5fd4c96f84e34814c7f07/web/2/1.json",
+          "title": "Phrases"
+        },
+        "lessons": 3,
+        "shortName": "Phrases",
+        "finishedLessons": 0,
+        "tipsAndNotes": "<h5>Tardes and Noches</h5><p>In English, \"afternoon\" comes before \"evening,\" which in turn comes before \"night.\" In Spanish there are only two words that cover these times of the day: \"tarde\" which means \"afternoon,\" but overlaps with \"evening,\" and \"noche,\" which means \"night\" but also overlaps with \"evening.\" Therefore, at 6:30pm it is ok to say either \"buenas tardes\" or \"buenas noches.\"</p><h5>Buenos Días</h5>\n\n<p>Even though \"buenos días\" literally means \"good days,\" it is used in the mornings to mean \"good morning.\"</p>\n\n<p><strong>Conjugation of 'Hablar'</strong></p>\n<p>Present indicative (presente del indicativo):</p>\n<ul>\n<li>yo hablo </li>\n<li>tú hablas </li>\n<li>usted habla</li>\n<li>él habla</li>\n<li>ella habla</li>\n<li>nosotros/as hablamos</li>\n<li>ustedes hablan</li>\n<li>ellos/ellas hablan</li>\n</ul>\n<p>In Spanish, the most common negative word is \"no\". As an adverb negating a sentence, it always comes immediately before the verb.</p>\n<p>I speak - [Yo] hablo.</p>\n<p>I do not speak - [Yo] <strong><em>no</em></strong> <strong>hablo</strong>.</p>\n<p>He is - [Él] es / está.</p>\n<p>He is not - [Él] <strong><em>no</em></strong> <strong>es / está</strong>.</p>",
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Travel",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Travel",
+        "id": "012b1b9614a6acc89dc865aadcbc86fd",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/012b1b9614a6acc89dc865aadcbc86fd/web/2/1.json",
+          "title": "Travel"
+        },
+        "lessons": 4,
+        "shortName": "Travel",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Restaurant",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Restaurant",
+        "id": "c754d262ea1c6703939811ddc165aa1d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c754d262ea1c6703939811ddc165aa1d/web/2/1.json",
+          "title": "Restaurant"
+        },
+        "lessons": 4,
+        "shortName": "Restaurant",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Family",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 29,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Family",
+        "id": "4c12302b60b06e50c8544689e432660b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4c12302b60b06e50c8544689e432660b/web/2/1.json",
+          "title": "Family"
+        },
+        "lessons": 4,
+        "shortName": "Family",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Christmas",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 65,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Christmas",
+        "id": "e845a3889dfad83ae9b08efb0e9ed616",
+        "lessons": 3,
+        "shortName": "Christmas",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Flirting",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 64,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Flirting",
+        "id": "ed0dd055842648c0fa2ecf525e6e3901",
+        "lessons": 3,
+        "shortName": "Flirting",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Idioms and Proverbs",
+        "experimentalLessons": [],
+        "bonus": true,
+        "levels": 1,
+        "iconId": 63,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Idioms-and-Proverbs",
+        "id": "4d3f9eeef6226eec0c8176701b8a14ed",
+        "lessons": 2,
+        "shortName": "Idioms",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Shopping",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 26,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Shopping",
+        "id": "0c0c2287080df2e210cd92c1abcd722f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/0c0c2287080df2e210cd92c1abcd722f/web/2/1.json",
+          "title": "Shopping"
+        },
+        "lessons": 4,
+        "shortName": "Shopping",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "School",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 22,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "School",
+        "id": "67b203d83c8f29b0fd2d1b5408b4eeca",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/67b203d83c8f29b0fd2d1b5408b4eeca/web/2/1.json",
+          "title": "School"
+        },
+        "lessons": 4,
+        "shortName": "School",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "People",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "People",
+        "id": "7177770ba479efae30745f930b9fa8b1",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7177770ba479efae30745f930b9fa8b1/web/2/1.json",
+          "title": "People"
+        },
+        "lessons": 3,
+        "shortName": "People",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Greetings",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Greetings",
+        "id": "c9ca84a2e697017a1f01a83953f9e32a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c9ca84a2e697017a1f01a83953f9e32a/web/2/3.json",
+          "title": "Greetings"
+        },
+        "lessons": 3,
+        "shortName": "Greetings",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Travel 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 12,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Travel-2",
+        "id": "69f698a6d5af56f79a34d55f4e027e7a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/69f698a6d5af56f79a34d55f4e027e7a/web/2/1.json",
+          "title": "Travel 2"
+        },
+        "lessons": 4,
+        "shortName": "Travel 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Schedule",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Schedule",
+        "id": "9df3922bfad3f82433baaf722d9ff5d5",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/9df3922bfad3f82433baaf722d9ff5d5/web/2/1.json",
+          "title": "Schedule"
+        },
+        "lessons": 4,
+        "shortName": "Schedule",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "People 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "People-2",
+        "id": "0692d111b5b66f1503f05e73ec97163c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/0692d111b5b66f1503f05e73ec97163c/web/2/1.json",
+          "title": "People 2"
+        },
+        "lessons": 4,
+        "shortName": "People 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "People 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 31,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "People-3",
+        "id": "1349718f907ab44f8a5c13ea03f76dc6",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/1349718f907ab44f8a5c13ea03f76dc6/web/2/1.json",
+          "title": "People 3"
+        },
+        "lessons": 4,
+        "shortName": "People 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "School 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 7,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "School-2",
+        "id": "3bddcbec6b9090ec8a448456dc4b5c15",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/3bddcbec6b9090ec8a448456dc4b5c15/web/2/1.json",
+          "title": "School 2"
+        },
+        "lessons": 4,
+        "shortName": "School 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Family 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 29,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Family-2",
+        "id": "e30cc8e38445d57c9329db12c301f44b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/e30cc8e38445d57c9329db12c301f44b/web/2/8.json",
+          "title": "Family 2"
+        },
+        "lessons": 4,
+        "shortName": "Family 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Work",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 30,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Work",
+        "id": "3c258cd8e8644ec94632027ec5cca6f7",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/3c258cd8e8644ec94632027ec5cca6f7/web/2/1.json",
+          "title": "Work"
+        },
+        "lessons": 4,
+        "shortName": "Work",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Emotions",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 33,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Emotions",
+        "id": "d97e3dc123a6ae5d5c3ad36c3c555d31",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/d97e3dc123a6ae5d5c3ad36c3c555d31/web/2/1.json",
+          "title": "Emotions"
+        },
+        "lessons": 4,
+        "shortName": "Emotions",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "People 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "People-4",
+        "id": "e0f5c96bac0c7f8cca56ce77ecc6ac78",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/e0f5c96bac0c7f8cca56ce77ecc6ac78/web/2/1.json",
+          "title": "People 4"
+        },
+        "lessons": 4,
+        "shortName": "People 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Fashion",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 26,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Fashion",
+        "id": "7198ecba219ffb4a87bf5463120dd595",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7198ecba219ffb4a87bf5463120dd595/web/2/1.json",
+          "title": "Fashion"
+        },
+        "lessons": 4,
+        "shortName": "Fashion",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Travel 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Travel-3",
+        "id": "6952f6f158c3c66cb7e1c044de89c0bc",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6952f6f158c3c66cb7e1c044de89c0bc/web/2/1.json",
+          "title": "Travel 3"
+        },
+        "lessons": 4,
+        "shortName": "Travel 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Leisure",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Leisure",
+        "id": "73efbc22b95952316d1e506cf3b57dab",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/73efbc22b95952316d1e506cf3b57dab/web/2/1.json",
+          "title": "Leisure"
+        },
+        "lessons": 4,
+        "shortName": "Leisure",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 1,
+        "name": "Activities",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "strength": 1.0,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Activities",
+        "id": "64f1ce1510da965fb0c6791517510911",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/64f1ce1510da965fb0c6791517510911/web/2/2.json",
+          "title": "Activities"
+        },
+        "lessons": 4,
+        "shortName": "Activities",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Preference",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 43,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Preference",
+        "id": "6761511a25193e7162eeb8f99dbbc1ce",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6761511a25193e7162eeb8f99dbbc1ce/web/2/1.json",
+          "title": "Preference"
+        },
+        "lessons": 4,
+        "shortName": "Preference",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Routines",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "progressRemaining": [
+          0.5,
+          0.5
+        ],
+        "urlName": "Routines",
+        "id": "6d4c42d04e09e5c64470bfa8de71029f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6d4c42d04e09e5c64470bfa8de71029f/web/2/1.json",
+          "title": "Routines"
+        },
+        "lessons": 4,
+        "shortName": "Routines",
+        "finishedLessons": 0,
+        "tipsAndNotes": null,
+        "accessible": true
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Household",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 28,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Household",
+        "id": "b51addab417dfb163910742aa30d5ad1",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b51addab417dfb163910742aa30d5ad1/web/2/1.json",
+          "title": "Household"
+        },
+        "lessons": 4,
+        "shortName": "Household",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Restaurant 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Restaurant-2",
+        "id": "51df513764191c6c81f5ad9ecfb9f8a2",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/51df513764191c6c81f5ad9ecfb9f8a2/web/2/1.json",
+          "title": "Restaurant 2"
+        },
+        "lessons": 4,
+        "shortName": "Rest. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Family 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Family-3",
+        "id": "93e7232750634b8295468660a516012c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/93e7232750634b8295468660a516012c/web/2/1.json",
+          "title": "Family 3"
+        },
+        "lessons": 4,
+        "shortName": "Family 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Shopping 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 8,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Shopping-2",
+        "id": "46d768bf752b4bde30af360f14d20cba",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/46d768bf752b4bde30af360f14d20cba/web/2/1.json",
+          "title": "Shopping 2"
+        },
+        "lessons": 4,
+        "shortName": "Shopping 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Description",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Description",
+        "id": "6587d7b16e8c8632f6da4c31083f238d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6587d7b16e8c8632f6da4c31083f238d/web/2/1.json",
+          "title": "Description"
+        },
+        "lessons": 4,
+        "shortName": "Descrip.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Recreation",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Recreation",
+        "id": "5b2770bcacc015adcf505be1e970f369",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/5b2770bcacc015adcf505be1e970f369/web/2/1.json",
+          "title": "Recreation"
+        },
+        "lessons": 4,
+        "shortName": "Recreation",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Community",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 31,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Community",
+        "id": "be6d256d3794b0f7ea47005a0e8eb0e3",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/be6d256d3794b0f7ea47005a0e8eb0e3/web/2/1.json",
+          "title": "Community"
+        },
+        "lessons": 4,
+        "shortName": "Community",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Phrases 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Phrases-2",
+        "id": "bf9f2e4c2dfc0df9b464ce5c49dbd029",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/bf9f2e4c2dfc0df9b464ce5c49dbd029/web/2/1.json",
+          "title": "Phrases 2"
+        },
+        "lessons": 4,
+        "shortName": "Phrases 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Community 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Community-2",
+        "id": "b0006f42d84a6676104b77a0f959dcce",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b0006f42d84a6676104b77a0f959dcce/web/2/1.json",
+          "title": "Community 2"
+        },
+        "lessons": 4,
+        "shortName": "Commun. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Routines 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Routines-2",
+        "id": "e23396aebb200a7d9888649ba72741ce",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/e23396aebb200a7d9888649ba72741ce/web/2/1.json",
+          "title": "Routines 2"
+        },
+        "lessons": 4,
+        "shortName": "Routines 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Activities 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Activities-2",
+        "id": "b5582f5fd5a807aa941b34746a9b5e19",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b5582f5fd5a807aa941b34746a9b5e19/web/2/1.json",
+          "title": "Activities 2"
+        },
+        "lessons": 4,
+        "shortName": "Activ. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Weather",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 50,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Weather",
+        "id": "7579b8f0692a785646a1f7152bdb0daf",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7579b8f0692a785646a1f7152bdb0daf/web/2/1.json",
+          "title": "Weather"
+        },
+        "lessons": 4,
+        "shortName": "Weather",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Interests",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 7,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Interests",
+        "id": "c1938a46a15c088e87e21fb1607e0170",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c1938a46a15c088e87e21fb1607e0170/web/2/1.json",
+          "title": "Interests"
+        },
+        "lessons": 4,
+        "shortName": "Interest",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Information",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Information",
+        "id": "8cddea63ff3413ce245f814595d4a360",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/8cddea63ff3413ce245f814595d4a360/web/2/1.json",
+          "title": "Information"
+        },
+        "lessons": 4,
+        "shortName": "Info.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Description 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Description-2",
+        "id": "a6d14d6e5a2d294b14e734bf228ac56e",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/a6d14d6e5a2d294b14e734bf228ac56e/web/2/1.json",
+          "title": "Description 2"
+        },
+        "lessons": 4,
+        "shortName": "Descrip. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 32,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-4",
+        "id": "ec9d48d99b59805f9174d177027200fd",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/ec9d48d99b59805f9174d177027200fd/web/2/4.json",
+          "title": "Travel 4"
+        },
+        "lessons": 4,
+        "shortName": "Travel 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Interests 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Interests-2",
+        "id": "740c41a284bf06e7a9633aa164c5a19d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/740c41a284bf06e7a9633aa164c5a19d/web/2/1.json",
+          "title": "Interests 2"
+        },
+        "lessons": 4,
+        "shortName": "Interest 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Groceries",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Groceries",
+        "id": "7346421d1a8dd69554d19545e4d4f134",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7346421d1a8dd69554d19545e4d4f134/web/2/2.json",
+          "title": "Groceries"
+        },
+        "lessons": 4,
+        "shortName": "Groceries",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Requests",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Requests",
+        "id": "7cd1a4b20ce7b1097398eb98d7661ad4",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7cd1a4b20ce7b1097398eb98d7661ad4/web/2/1.json",
+          "title": "Requests"
+        },
+        "lessons": 4,
+        "shortName": "Requests",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Routines 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Routines-3",
+        "id": "5e953e1076e27341f5c4c2d6546256e3",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/5e953e1076e27341f5c4c2d6546256e3/web/2/1.json",
+          "title": "Routines 3"
+        },
+        "lessons": 4,
+        "shortName": "Routines 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "School 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 7,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "School-3",
+        "id": "09102a793525d63ce4ba7efd72bb9759",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/09102a793525d63ce4ba7efd72bb9759/web/2/1.json",
+          "title": "School 3"
+        },
+        "lessons": 4,
+        "shortName": "School 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Shopping 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 51,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Shopping-3",
+        "id": "4f2a2ddca5510da54eb4bedfe3cb7da8",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4f2a2ddca5510da54eb4bedfe3cb7da8/web/2/1.json",
+          "title": "Shopping 3"
+        },
+        "lessons": 4,
+        "shortName": "Shopping 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Plans",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 12,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Plans",
+        "id": "4d8dbd4837ae9a2b9371c31f1280ef7f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4d8dbd4837ae9a2b9371c31f1280ef7f/web/2/4.json",
+          "title": "Plans"
+        },
+        "lessons": 4,
+        "shortName": "Plans",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Activities 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Activities-3",
+        "id": "943bc6c6e4faaa934fd8f39f584ffb55",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/943bc6c6e4faaa934fd8f39f584ffb55/web/2/1.json",
+          "title": "Activities 3"
+        },
+        "lessons": 4,
+        "shortName": "Activ. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Household2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 16,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Household2",
+        "id": "6f8bac1b9f3172fc84f1721af6476142",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6f8bac1b9f3172fc84f1721af6476142/web/2/1.json",
+          "title": "Household 2"
+        },
+        "lessons": 4,
+        "shortName": "House 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Community 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Community-3",
+        "id": "9730ab1efca5b9b78230781372a3a891",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/9730ab1efca5b9b78230781372a3a891/web/2/1.json",
+          "title": "Community 3"
+        },
+        "lessons": 4,
+        "shortName": "Commun. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Directions",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 45,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Directions",
+        "id": "b35b40711c95069677a34828b797fb5f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b35b40711c95069677a34828b797fb5f/web/2/1.json",
+          "title": "Directions"
+        },
+        "lessons": 4,
+        "shortName": "Directions",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Memories",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Memories",
+        "id": "1d30a2ac2bcd9ebaadef8ceef811188f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/1d30a2ac2bcd9ebaadef8ceef811188f/web/2/1.json",
+          "title": "Memories"
+        },
+        "lessons": 4,
+        "shortName": "Memories",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Farm",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 44,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Farm",
+        "id": "18dc42dc55fef6ba4954d948a170361b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/18dc42dc55fef6ba4954d948a170361b/web/2/4.json",
+          "title": "Farm"
+        },
+        "lessons": 4,
+        "shortName": "Farm",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Recreation 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Recreation-2",
+        "id": "cfc76af5da2395ac3dffb767d66ff7fe",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/cfc76af5da2395ac3dffb767d66ff7fe/web/2/1.json",
+          "title": "Recreation 2"
+        },
+        "lessons": 4,
+        "shortName": "Rec. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vacation",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vacation",
+        "id": "7830db84a530bdc7898bdfcd45639ea0",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7830db84a530bdc7898bdfcd45639ea0/web/2/2.json",
+          "title": "Vacation"
+        },
+        "lessons": 4,
+        "shortName": "Vacation",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Shopping 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 8,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Shopping-4",
+        "id": "d9383b4edffdb87fe94aed47389543e0",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/d9383b4edffdb87fe94aed47389543e0/web/2/1.json",
+          "title": "Shopping 4"
+        },
+        "lessons": 4,
+        "shortName": "Shopping 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Description 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Description-3",
+        "id": "386fed03d4deb6044fd668f11a3796af",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/386fed03d4deb6044fd668f11a3796af/web/2/1.json",
+          "title": "Description 3"
+        },
+        "lessons": 4,
+        "shortName": "Descrip. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Nature",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 15,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Nature",
+        "id": "db10a14778502eac6f3f50de49b476af",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/db10a14778502eac6f3f50de49b476af/web/2/1.json",
+          "title": "Nature"
+        },
+        "lessons": 4,
+        "shortName": "Nature",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 32,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-5",
+        "id": "ecc16f6401f265d4cf13dbd5762ec93a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/ecc16f6401f265d4cf13dbd5762ec93a/web/2/2.json",
+          "title": "Travel 5"
+        },
+        "lessons": 4,
+        "shortName": "Travel 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "School 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 14,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "School-4",
+        "id": "35745cfa683dcbfe37fb2054092afa8a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/35745cfa683dcbfe37fb2054092afa8a/web/2/1.json",
+          "title": "School 4"
+        },
+        "lessons": 4,
+        "shortName": "School 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "History",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 46,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "History",
+        "id": "5b0af3714c064cb8468bf38d92026320",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/5b0af3714c064cb8468bf38d92026320/web/2/1.json",
+          "title": "History"
+        },
+        "lessons": 4,
+        "shortName": "History",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Home",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 28,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Home",
+        "id": "577f842cb8c194bc2d0dfb8a9faa46e0",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/577f842cb8c194bc2d0dfb8a9faa46e0/web/2/3.json",
+          "title": "Home"
+        },
+        "lessons": 4,
+        "shortName": "Home",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Preference 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 45,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Preference-2",
+        "id": "46f187fe866ceb7bef5c3e9f184ec8c9",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/46f187fe866ceb7bef5c3e9f184ec8c9/web/2/1.json",
+          "title": "Preference 2"
+        },
+        "lessons": 4,
+        "shortName": "Pref. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Work 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 10,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Work-2",
+        "id": "f3645e4eb9f4f828d9f8d6cd3e537903",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/f3645e4eb9f4f828d9f8d6cd3e537903/web/2/1.json",
+          "title": "Work 2"
+        },
+        "lessons": 4,
+        "shortName": "Work 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Childhood",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Childhood",
+        "id": "fe6a0d01e7f3611fcdedead78e0dbc2c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/fe6a0d01e7f3611fcdedead78e0dbc2c/web/2/1.json",
+          "title": "Childhood"
+        },
+        "lessons": 4,
+        "shortName": "Childhood",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Restaurant 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Restaurant-3",
+        "id": "04d601fff0f03fe5ed5ec0115b844d5c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/04d601fff0f03fe5ed5ec0115b844d5c/web/2/1.json",
+          "title": "Restaurant 3"
+        },
+        "lessons": 4,
+        "shortName": "Restaur. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Recreation 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Recreation-3",
+        "id": "445944c63d9e16f883af8c4ce72300c8",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/445944c63d9e16f883af8c4ce72300c8/web/2/3.json",
+          "title": "Recreation 3"
+        },
+        "lessons": 4,
+        "shortName": "Rec. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Traditions",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 14,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Traditions",
+        "id": "d209d542cd16454aa10f6cf586c49218",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/d209d542cd16454aa10f6cf586c49218/web/2/1.json",
+          "title": "Traditions"
+        },
+        "lessons": 4,
+        "shortName": "Traditions",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Social",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Social",
+        "id": "b4f0d8e1a4741202f6c289c88592b24d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b4f0d8e1a4741202f6c289c88592b24d/web/2/1.json",
+          "title": "Social"
+        },
+        "lessons": 4,
+        "shortName": "Social",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Memories 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Memories-2",
+        "id": "60cc23ce096dc44bd2f25e7602e59281",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/60cc23ce096dc44bd2f25e7602e59281/web/2/1.json",
+          "title": "Memories 2"
+        },
+        "lessons": 4,
+        "shortName": "Memories 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Household 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 28,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Household-3",
+        "id": "c9779f1ba781a76902434c3503687bbd",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c9779f1ba781a76902434c3503687bbd/web/2/1.json",
+          "title": "Household 3"
+        },
+        "lessons": 4,
+        "shortName": "House 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Health",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 10,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Health",
+        "id": "1f695d1d5cd94f3b322c306e2ebb01f3",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/1f695d1d5cd94f3b322c306e2ebb01f3/web/2/1.json",
+          "title": "Health"
+        },
+        "lessons": 4,
+        "shortName": "Health",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Information 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Information-2",
+        "id": "4cf6c966d098dd00c6cf1bab21d5789b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4cf6c966d098dd00c6cf1bab21d5789b/web/2/1.json",
+          "title": "Information 2"
+        },
+        "lessons": 4,
+        "shortName": "Info. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Description 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Description-4",
+        "id": "cd20f4d4ef7863fe7c72ccadfb153c79",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/cd20f4d4ef7863fe7c72ccadfb153c79/web/2/1.json",
+          "title": "Description 4"
+        },
+        "lessons": 4,
+        "shortName": "Descrip. 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Activities 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Activities-4",
+        "id": "1fa9db0866222333f671c021ba8c2b57",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/1fa9db0866222333f671c021ba8c2b57/web/2/1.json",
+          "title": "Activities 4"
+        },
+        "lessons": 4,
+        "shortName": "Activ. 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Childhood 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Childhood-2",
+        "id": "6987cd217cd9f6519222650a18ac4d27",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/6987cd217cd9f6519222650a18ac4d27/web/2/1.json",
+          "title": "Childhood 2"
+        },
+        "lessons": 4,
+        "shortName": "Child. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Storytelling",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 46,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Storytelling",
+        "id": "07f035259b20638dc127235f45d5d4bf",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/07f035259b20638dc127235f45d5d4bf/web/2/1.json",
+          "title": "Storytelling"
+        },
+        "lessons": 4,
+        "shortName": "Story",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vacation 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vacation-2",
+        "id": "f7798769deae16b5b1ede2ae2fa039b7",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/f7798769deae16b5b1ede2ae2fa039b7/web/2/1.json",
+          "title": "Vacation 2"
+        },
+        "lessons": 4,
+        "shortName": "Vacation 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Narrative",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 32,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Narrative",
+        "id": "77ec126a072378d6f1cd9a7aafa6e717",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/77ec126a072378d6f1cd9a7aafa6e717/web/2/1.json",
+          "title": "Narrative"
+        },
+        "lessons": 4,
+        "shortName": "Narrative",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Anecdotes",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Anecdotes",
+        "id": "70a5e36ae3b5e02f683b4c149d724a81",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/70a5e36ae3b5e02f683b4c149d724a81/web/2/1.json",
+          "title": "Anecdotes"
+        },
+        "lessons": 4,
+        "shortName": "Anecdotes",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Work 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 30,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Work-3",
+        "id": "f9972efac9c1770b1a240422f5ee8adb",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/f9972efac9c1770b1a240422f5ee8adb/web/2/1.json",
+          "title": "Work 3"
+        },
+        "lessons": 4,
+        "shortName": "Work 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Storytelling 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 46,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Storytelling-2",
+        "id": "d25ff0e614b87eac2021fafcf7773482",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/d25ff0e614b87eac2021fafcf7773482/web/2/1.json",
+          "title": "Storytelling 2"
+        },
+        "lessons": 4,
+        "shortName": "Story 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "History 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 17,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "History-2",
+        "id": "7e24c07974b327bcf675be14ffea3f81",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7e24c07974b327bcf675be14ffea3f81/web/2/1.json",
+          "title": "History 2"
+        },
+        "lessons": 4,
+        "shortName": "History 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Daily Life",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Daily-Life",
+        "id": "e729deada70c8220cfeae8e4aa18bd2f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/e729deada70c8220cfeae8e4aa18bd2f/web/2/1.json",
+          "title": "Daily Life"
+        },
+        "lessons": 4,
+        "shortName": "Daily Life",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Groceries 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Groceries-2",
+        "id": "b6e432ed588f81eb69e345e09f5769f7",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b6e432ed588f81eb69e345e09f5769f7/web/2/1.json",
+          "title": "Groceries 2"
+        },
+        "lessons": 4,
+        "shortName": "Grocery 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "School 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 7,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "School-5",
+        "id": "8b4c59302fa5b7bbec4df53bb8e19256",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/8b4c59302fa5b7bbec4df53bb8e19256/web/2/1.json",
+          "title": "School 5"
+        },
+        "lessons": 4,
+        "shortName": "School 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Hobbies",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Hobbies",
+        "id": "9965dcbfa35a4801cf5664d687ee6ad2",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/9965dcbfa35a4801cf5664d687ee6ad2/web/2/1.json",
+          "title": "Hobbies"
+        },
+        "lessons": 4,
+        "shortName": "Hobbies",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Experiences",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Experiences",
+        "id": "b5530e1c3bb835a085a47e3848b1aa92",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/b5530e1c3bb835a085a47e3848b1aa92/web/2/1.json",
+          "title": "Experiences"
+        },
+        "lessons": 4,
+        "shortName": "Experience",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Work 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 30,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Work-4",
+        "id": "cfd4f69a7138e9927f3db115a2ae3b8c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/cfd4f69a7138e9927f3db115a2ae3b8c/web/2/1.json",
+          "title": "Work 4"
+        },
+        "lessons": 4,
+        "shortName": "Work 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Shopping 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 8,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Shopping-5",
+        "id": "f20bd06f2418676d042219d1f5f3fc6d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/f20bd06f2418676d042219d1f5f3fc6d/web/2/1.json",
+          "title": "Shopping 5"
+        },
+        "lessons": 4,
+        "shortName": "Shopping 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Health 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 10,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Health-2",
+        "id": "dee8f617bf78d888d97d69a4c8ba9d6b",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/dee8f617bf78d888d97d69a4c8ba9d6b/web/2/1.json",
+          "title": "Health 2"
+        },
+        "lessons": 4,
+        "shortName": "Health 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Childhood 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Childhood-3",
+        "id": "df2f70cc5dd3306acd8f2d2e2208d403",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/df2f70cc5dd3306acd8f2d2e2208d403/web/2/1.json",
+          "title": "Childhood 3"
+        },
+        "lessons": 4,
+        "shortName": "Child. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vacation 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 32,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vacation-3",
+        "id": "27e72f831c2b11a2820d3364ed4275b2",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/27e72f831c2b11a2820d3364ed4275b2/web/2/1.json",
+          "title": "Vacation 3"
+        },
+        "lessons": 4,
+        "shortName": "Vacation 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Activities 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Activities-5",
+        "id": "61d63d8bacd394e342e7da94ad78c64a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/61d63d8bacd394e342e7da94ad78c64a/web/2/1.json",
+          "title": "Activities 5"
+        },
+        "lessons": 4,
+        "shortName": "Activity 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Information 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 24,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Information-3",
+        "id": "7b68e45487da1c1fa68b0bb0eb758ba0",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7b68e45487da1c1fa68b0bb0eb758ba0/web/2/1.json",
+          "title": "Information 3"
+        },
+        "lessons": 4,
+        "shortName": "Info. 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Experiences 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 33,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Experiences-2",
+        "id": "90808c0138d2155cd6d3f3ea964853ca",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/90808c0138d2155cd6d3f3ea964853ca/web/2/1.json",
+          "title": "Experiences 2"
+        },
+        "lessons": 4,
+        "shortName": "Exper. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Family 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 2,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Family-4",
+        "id": "7971d76b739f871b81932732e94919da",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/7971d76b739f871b81932732e94919da/web/2/1.json",
+          "title": "Family 4"
+        },
+        "lessons": 4,
+        "shortName": "Family 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 6",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 12,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-6",
+        "id": "12c129be8676870d189246e9d2dd4f2f",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/12c129be8676870d189246e9d2dd4f2f/web/2/1.json",
+          "title": "Travel 6"
+        },
+        "lessons": 4,
+        "shortName": "Travel 6",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Future",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Future",
+        "id": "2949e5fd2fb503ac53bd5157477ac40d",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/2949e5fd2fb503ac53bd5157477ac40d/web/2/1.json",
+          "title": "Future"
+        },
+        "lessons": 4,
+        "shortName": "Future",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "School 6",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 20,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "School-6",
+        "id": "a80bae05c65e0f02f593bf89433db107",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/a80bae05c65e0f02f593bf89433db107/web/2/1.json",
+          "title": "School 6"
+        },
+        "lessons": 4,
+        "shortName": "School 6",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Anecdotes 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Anecdotes-2",
+        "id": "1495f0e2fb760f6b43fc2cd0c65fdea6",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/1495f0e2fb760f6b43fc2cd0c65fdea6/web/2/1.json",
+          "title": "Anecdotes 2"
+        },
+        "lessons": 4,
+        "shortName": "Anecdote 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 7",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 36,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-7",
+        "id": "c0782e7fa3b2e56fb8cebad763879ecb",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c0782e7fa3b2e56fb8cebad763879ecb/web/2/1.json",
+          "title": "Travel 7"
+        },
+        "lessons": 4,
+        "shortName": "Travel 7",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Requests 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Requests-2",
+        "id": "c25ab606899297ab643b9ea27afe09ad",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c25ab606899297ab643b9ea27afe09ad/web/2/1.json",
+          "title": "Requests 2"
+        },
+        "lessons": 4,
+        "shortName": "Requests 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Nature 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 6,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Nature-2",
+        "id": "3b3e164e18702487a296243648de21b9",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/3b3e164e18702487a296243648de21b9/web/2/1.json",
+          "title": "Nature 2"
+        },
+        "lessons": 4,
+        "shortName": "Nature 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Social 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 31,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Social-2",
+        "id": "9c98efd31c5b4f06cd93066574a0da55",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/9c98efd31c5b4f06cd93066574a0da55/web/2/1.json",
+          "title": "Social 2"
+        },
+        "lessons": 4,
+        "shortName": "Social 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Household 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 28,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Household-4",
+        "id": "0d6663c26b0147edac288fe2aea0b29e",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/0d6663c26b0147edac288fe2aea0b29e/web/2/1.json",
+          "title": "Household 4"
+        },
+        "lessons": 4,
+        "shortName": "House 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Shopping 6",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 26,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Shopping-6",
+        "id": "951e4348b0d978c652a3d5b58bb66ac6",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/951e4348b0d978c652a3d5b58bb66ac6/web/2/1.json",
+          "title": "Shopping 6"
+        },
+        "lessons": 4,
+        "shortName": "Shopping 6",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Work 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 30,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Work-5",
+        "id": "403baee2ff6d4961c5b7bb76bc3fdf0a",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/403baee2ff6d4961c5b7bb76bc3fdf0a/web/2/1.json",
+          "title": "Work 5"
+        },
+        "lessons": 4,
+        "shortName": "Work 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 8",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 32,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-8",
+        "id": "d8b5c707412535258616161f5d21624c",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/d8b5c707412535258616161f5d21624c/web/2/1.json",
+          "title": "Travel 8"
+        },
+        "lessons": 4,
+        "shortName": "Travel 8",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Requests 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Requests-3",
+        "id": "a76e04bebb01020e807d48f424ce6446",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/a76e04bebb01020e807d48f424ce6446/web/2/1.json",
+          "title": "Requests 3"
+        },
+        "lessons": 4,
+        "shortName": "Requests 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Fiction",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 46,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Fiction",
+        "id": "db112d7c0888e077067678d8dc3352e1",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/db112d7c0888e077067678d8dc3352e1/web/2/1.json",
+          "title": "Fiction"
+        },
+        "lessons": 4,
+        "shortName": "Fiction",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Description 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Description-5",
+        "id": "77fcaefa03a16071cc4c0658f850a634",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/77fcaefa03a16071cc4c0658f850a634/web/2/1.json",
+          "title": "Description 5"
+        },
+        "lessons": 4,
+        "shortName": "Descrip. 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Requests 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 48,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Requests-4",
+        "id": "c1f500fedce5cc5cb922033e21080051",
+        "explanation": {
+          "url": "https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/c1f500fedce5cc5cb922033e21080051/web/2/1.json",
+          "title": "Requests 4"
+        },
+        "lessons": 4,
+        "shortName": "Requests 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Travel 9",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 12,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Travel-9",
+        "id": "29e056396bbc0a36244c0afc2d2ba2db",
+        "lessons": 4,
+        "shortName": "Travel 9",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vocab 1",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 18,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vocab-1",
+        "id": "86a74dcdc3aca92cdca3456c0245ca1a",
+        "lessons": 6,
+        "shortName": "Vocab 1",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Home 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 28,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Home-2",
+        "id": "8a264aa375f85d32e981b5beb874f9f5",
+        "lessons": 2,
+        "shortName": "Home 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Occupations 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Occupations-2",
+        "id": "323d4b82858665062f3e46b762fb1c9a",
+        "lessons": 5,
+        "shortName": "Occup. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Dates and Times",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 27,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Dates-and-Times",
+        "id": "c76ba79b9078d3e87b307675f66ca7cf",
+        "lessons": 2,
+        "shortName": "Times",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Adjectives 1",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Adjectives-1",
+        "id": "e401d8278ef5b809b9a87cfe2b5a7774",
+        "lessons": 4,
+        "shortName": "Adj. 1",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Verbs: Present 1",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Verbs:-Present-1",
+        "id": "bdbcc8d1ab84df530450d0da3123a4d6",
+        "lessons": 5,
+        "shortName": "Present 1",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Grammar",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 40,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Grammar",
+        "id": "9d1209095ea555aa81e304bbf7d86ee8",
+        "lessons": 3,
+        "shortName": "Grammar",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Adverbs",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 40,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Adverbs",
+        "id": "f6e988e57463b0f02a875890d369a9bc",
+        "lessons": 6,
+        "shortName": "Adverbs",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Objects",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 16,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Objects",
+        "id": "93d2883e328dbcea7e1cc95a81875a45",
+        "lessons": 3,
+        "shortName": "Objects",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Places",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 12,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Places",
+        "id": "5531d7726d4145b7a71f6cfca3ba9b17",
+        "lessons": 4,
+        "shortName": "Places",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "People 5",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 35,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "People-5",
+        "id": "362b8ca2607d342fbf12e7a934d4480b",
+        "lessons": 5,
+        "shortName": "People 5",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Verbs: Past",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 52,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Verbs:-Past",
+        "id": "b3354bd153bb79c589e1ea9e901254bc",
+        "lessons": 8,
+        "shortName": "Past",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Verbs: Present 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Verbs:-Present-2",
+        "id": "dfe436fab2eedafd681c765ec43a6ca0",
+        "lessons": 10,
+        "shortName": "Present 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Infinitives 1",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Infinitives-1",
+        "id": "613cff456e61b6122bb32dadf87a3b54",
+        "lessons": 4,
+        "shortName": "Inf. 1",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Verbs: Future Phrasal",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Verbs:-Future-Phrasal",
+        "id": "6d0ec3f66883d6f580724785c9882116",
+        "lessons": 10,
+        "shortName": "Fut. Phrs.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Countries",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 19,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Countries",
+        "id": "c81be8849995270324901bcb982f46c8",
+        "lessons": 2,
+        "shortName": "Countries",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Adjectives 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Adjectives-2",
+        "id": "714f9192ad029060e5f9ef5b7ac97d23",
+        "lessons": 9,
+        "shortName": "Adj. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Directions 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 45,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Directions-2",
+        "id": "9c48e9864ba46a14f65e4f3ea0ee50d9",
+        "lessons": 3,
+        "shortName": "Direct. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Education",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 23,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Education",
+        "id": "e1c9fb15b857bcec42024b9a3f55f648",
+        "lessons": 4,
+        "shortName": "Education",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vocabulary 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 6,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vocabulary-2",
+        "id": "ca75eddce2683d1a07d4210ac5daf8ec",
+        "lessons": 10,
+        "shortName": "Vocab 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Pariticiples",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Pariticiples",
+        "id": "9ef75ae2ec81117e7f0ff315e447ab98",
+        "lessons": 3,
+        "shortName": "Participle",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Feelings",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 33,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Feelings",
+        "id": "ad06849a53c513cfe489021745b01222",
+        "lessons": 3,
+        "shortName": "Feelings",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Present Perfect",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Present-Perfect",
+        "id": "c84b9da06f0f317649696a7b854e4c4b",
+        "lessons": 10,
+        "shortName": "Pres. Prf.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Past Perfect",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Past-Perfect",
+        "id": "f0435f2c452cb47385be8bee9335c4ca",
+        "lessons": 5,
+        "shortName": "Past Perf.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Nature 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 15,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Nature-3",
+        "id": "9587bbfc465a5bbf60dd8a96ae0b765e",
+        "lessons": 5,
+        "shortName": "Nature 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vocab 3",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 3,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vocab-3",
+        "id": "ffa288943a5a338fd6271b81536c0e8b",
+        "lessons": 8,
+        "shortName": "Vocab 3",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Infinitives 2",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Infinitives-2",
+        "id": "a4a2c0744f27332a1d49baeee3cb06f7",
+        "lessons": 7,
+        "shortName": "Inf. 2",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Sports",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 9,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Sports",
+        "id": "fbdd38c49c271a3572c982776edfcb72",
+        "lessons": 3,
+        "shortName": "Sports",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Medical",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 10,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Medical",
+        "id": "906dcfd0602a665be1eb3bb81687d15e",
+        "lessons": 7,
+        "shortName": "Medical",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Gerund",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Gerund",
+        "id": "977ebbde7ef7b1787021eeac9fdfc656",
+        "lessons": 3,
+        "shortName": "Gerund",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Business",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 8,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Business",
+        "id": "3d46e5947b9d353d97fee1220cd27682",
+        "lessons": 5,
+        "shortName": "Business",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Communication",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 30,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Communication",
+        "id": "aeb8ba37d323a16af9f1baa9ba94ed4a",
+        "lessons": 4,
+        "shortName": "Comm.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Spiritual",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 25,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Spiritual",
+        "id": "36d16542251a1f1ca6117a0c1f3cbadf",
+        "lessons": 3,
+        "shortName": "Spiritual",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Verbs: Future",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Verbs:-Future",
+        "id": "e7b8acea1c63883567e4c18cac2c3bcd",
+        "lessons": 6,
+        "shortName": "Fut. Tense",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Arts",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 4,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Arts",
+        "id": "9c2caed48948fb5010fe02f2bb6eaf0b",
+        "lessons": 4,
+        "shortName": "Arts",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Future Perfect",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 52,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Future-Perfect",
+        "id": "34ca180d1d591c99220cfaa0bfc0a4be",
+        "lessons": 3,
+        "shortName": "Fut. Perf.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Politics",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 11,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Politics",
+        "id": "d72f328b781eb0a7c86f41f49a6c0024",
+        "lessons": 10,
+        "shortName": "Politics",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Subjunctive",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Subjunctive",
+        "id": "410b5eb4165f4694e530c4cfaf29d717",
+        "lessons": 3,
+        "shortName": "Subjunc.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Science",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 7,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Science",
+        "id": "b71787ab9f3cac3b01131a0e3d8e78ab",
+        "lessons": 5,
+        "shortName": "Science",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Modals",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Modals",
+        "id": "c25f4ffa7009e95e8e57d688e8d92356",
+        "lessons": 3,
+        "shortName": "Modals",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Conditional",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 52,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Conditional",
+        "id": "9ff3e53f47063e2d50405170a2393fa2",
+        "lessons": 2,
+        "shortName": "Condtnl.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Past Imperfect",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Past-Imperfect",
+        "id": "5da688241501ab937843341e5962ec57",
+        "lessons": 5,
+        "shortName": "Past Imp.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Past Subjunctive",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 5,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Past-Subjunctive",
+        "id": "5083ec5612e54afc0d71600ae847c8da",
+        "lessons": 2,
+        "shortName": "Past Subj.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      },
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Vocab 4",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 13,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Vocab-4",
+        "id": "505127649fe971fe04f22b386bbc44cf",
+        "lessons": 9,
+        "shortName": "Vocab 4",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ],
+    [
+      {
+        "experimentIds": [],
+        "finishedLevels": 0,
+        "name": "Conditional Perfect",
+        "experimentalLessons": [],
+        "levels": 5,
+        "iconId": 53,
+        "progressRemaining": [
+          1,
+          0
+        ],
+        "urlName": "Conditional-Perfect",
+        "id": "c114855434f2b7a6ab71c3cba6213a8f",
+        "lessons": 3,
+        "shortName": "Cond. Prf.",
+        "finishedLessons": 0,
+        "tipsAndNotes": null
+      }
+    ]
+  ]
+}

@@ -3,5 +3,7 @@
     <dimen name="juicyLength1">16dp</dimen>
     <dimen name="juicyLengthHalf">8dp</dimen>
     <dimen name="juicySkillIndicatorSize">9dp</dimen>
+    <dimen name="skillWidth">116dp</dimen>
+    <dimen name="skillHeight">150dp</dimen>
 
 </resources>
