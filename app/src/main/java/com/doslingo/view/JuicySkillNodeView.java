@@ -4,11 +4,13 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
+import android.view.View;
 
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
 import com.doslingo.R;
+import com.doslingo.typeface.widget.JuicyTextView;
 
 public class JuicySkillNodeView extends ConstraintLayout {
   private static final int[] LEVEL_BACKGROUNDS = new int[]{
@@ -32,6 +34,8 @@ public class JuicySkillNodeView extends ConstraintLayout {
 
   private final JuicyFillingRingView progressRing;
   private final AppCompatImageView icon;
+  private final AppCompatImageView crownLevel;
+  private final JuicyTextView crownCount;
 
   private int level;
   private int skill;
@@ -50,6 +54,8 @@ public class JuicySkillNodeView extends ConstraintLayout {
 
     progressRing = findViewById(R.id.progressRing);
     icon = findViewById(R.id.icon);
+    crownLevel = findViewById(R.id.levelCrown);
+    crownCount = findViewById(R.id.crownCount);
     final TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.JuicySkillNodeView, defStyleAttr, 0);
     try {
       level = a.getInteger(R.styleable.JuicySkillNodeView_level, 0);
@@ -74,6 +80,8 @@ public class JuicySkillNodeView extends ConstraintLayout {
   private void update() {
     icon.setBackgroundResource(LEVEL_BACKGROUNDS[this.level]);
     icon.setImageResource(getResources().getIdentifier("icon_" + LEVEL_ICON_PREFIX[level] + "_" + skill, "drawable", getContext().getPackageName()));
+    crownLevel.setImageResource(level <= 1 ? R.drawable.crown_grey_stroked : R.drawable.crown_stroked);
+    crownCount.setText(level <= 1 ? "" : String.valueOf(level - 1));
   }
 
   public void setProgress(float progress) {
