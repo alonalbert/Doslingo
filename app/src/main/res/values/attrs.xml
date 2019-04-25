@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- JuicyFillingRingView todo-->
+    <attr name="ringFillColor" format="color" />
+
+    <!-- JuicySkillNodeView todo -->
+    <attr name="drawCap" format="boolean"/>
+
+    <!-- AppCompatImageView  todo What does this do?-->
+    <attr name="aspectRatio" format="float" />
+
+</resources>

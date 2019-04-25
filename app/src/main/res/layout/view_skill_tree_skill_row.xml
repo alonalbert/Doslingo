@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.doslingo.view.SkillTreeSkillRowView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/juicyLength1"
+    android:layout_marginEnd="@dimen/juicyLength1">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/skillTreeRowNodep"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="@dimen/juicyLengthHalf"
+        android:paddingBottom="@dimen/juicyLengthHalf">
+
+        <com.doslingo.view.JuicySkillNodeView
+            android:id="@+id/skillNode1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/juicyLengthHalf"
+            app:layout_constraintEnd_toStartOf="@+id/skillNode2"
+            app:layout_constraintHorizontal_chainStyle="spread_inside"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.doslingo.view.JuicySkillNodeView
+            android:id="@+id/skillNode2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/juicyLengthHalf"
+            android:layout_marginEnd="@dimen/juicyLengthHalf"
+            app:drawCap="false"
+            app:layout_constraintEnd_toStartOf="@+id/skillNode3"
+            app:layout_constraintStart_toEndOf="@+id/skillNode1"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.doslingo.view.JuicySkillNodeView
+            android:id="@+id/skillNode3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/juicyLengthHalf"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/skillNode2"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.doslingo.view.SkillTreeSkillRowView>

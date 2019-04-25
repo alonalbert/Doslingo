@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="juicyLength1">16dp</dimen>
+    <dimen name="juicyLengthHalf">8dp</dimen>
+    <dimen name="juicySkillIndicatorSize">9dp</dimen>
+
+</resources>

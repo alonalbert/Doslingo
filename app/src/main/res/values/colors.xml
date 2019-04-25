@@ -3,4 +3,13 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="juicyBee">#ffc800</color>
+    <color name="juicyGuineaPig">#cd7900</color>
+    <color name="juicySwan">#e5e5e5</color>
+
+    <color name="blue_button_enabled">@color/blue</color>
+
+    <color name="blue">#1cb0f6</color>
+
 </resources>

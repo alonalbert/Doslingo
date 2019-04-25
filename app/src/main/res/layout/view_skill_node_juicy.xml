@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.doslingo.view.JuicyFillingRingView
+        android:id="@+id/progressRing"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:rotation="45"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:ringFillColor="@color/juicyBee" />
+
+    <View
+        android:id="@+id/bonusSkillSlotRing"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/juicyLengthHalf"
+        android:background="@drawable/circle_outline_grey"
+        android:visibility="gone"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.doslingo.view.ParticlePopView
+        android:id="@+id/particlePop"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/icon"
+        app:layout_constraintEnd_toEndOf="@+id/icon"
+        app:layout_constraintStart_toStartOf="@+id/icon"
+        app:layout_constraintTop_toTopOf="@+id/icon" />
+
+    <View
+        android:id="@+id/iconBackground"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toBottomOf="@+id/progressRing"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="@+id/progressRing"
+        app:layout_constraintStart_toStartOf="@+id/progressRing"
+        app:layout_constraintTop_toTopOf="@+id/progressRing"
+        app:layout_constraintWidth_percent="0.72"
+        android:focusable="true" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/icon"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        app:aspectRatio="1"
+        app:layout_constraintBottom_toBottomOf="@+id/iconBackground"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="@+id/iconBackground"
+        app:layout_constraintStart_toStartOf="@+id/iconBackground"
+        app:layout_constraintTop_toTopOf="@+id/iconBackground" />
+
+    <com.doslingo.typeface.widget.JuicyTextView
+        android:id="@+id/title"
+        style="@style/H2"
+        android:layout_width="wrap_content"
+        android:layout_height="23sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/juicyLengthHalf"
+        android:gravity="center"
+        android:maxLines="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progressRing" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/newSkillIndicator"
+        android:layout_width="@dimen/juicySkillIndicatorSize"
+        android:layout_height="@dimen/juicySkillIndicatorSize"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="@dimen/juicyLengthHalf"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/title"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toStartOf="@+id/title"
+        app:layout_constraintTop_toTopOf="@+id/title"
+        app:srcCompat="@drawable/indicator_blue" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/levelCrown"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/progressRing"
+        app:layout_constraintDimensionRatio="9:7"
+        app:layout_constraintEnd_toEndOf="@+id/progressRing"
+        app:layout_constraintWidth_percent="0.35" />
+
+    <com.doslingo.typeface.widget.JuicyTextView
+        android:id="@+id/crownCount"
+        style="@style/H1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:textColor="@color/juicyGuineaPig"
+        android:visibility="gone"
+        app:autoSizeMinTextSize="5sp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="@+id/levelCrown"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="@+id/levelCrown"
+        app:layout_constraintStart_toStartOf="@+id/levelCrown"
+        app:layout_constraintTop_toTopOf="@+id/levelCrown"
+        app:layout_constraintVertical_bias="0.67"
+        app:layout_constraintWidth_percent="0.17" />
+</merge>
