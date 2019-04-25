@@ -13,6 +13,9 @@
     </declare-styleable>
 
     <declare-styleable name="JuicySkillNodeView">
+        <attr name="level" format="integer" />
+        <attr name="skill" format="integer" />
+        <attr name="title" format="string" />
         <attr name="progress" />
     </declare-styleable>
 
