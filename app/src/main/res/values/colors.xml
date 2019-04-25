@@ -5,7 +5,9 @@
     <color name="colorAccent">#D81B60</color>
 
     <color name="juicyBee">#ffc800</color>
+    <color name="juicyFox">#ff9600</color>
     <color name="juicyGuineaPig">#cd7900</color>
+    <color name="juicySnow">#fffffd</color>
     <color name="juicySwan">#e5e5e5</color>
 
     <color name="blue_button_enabled">@color/blue</color>

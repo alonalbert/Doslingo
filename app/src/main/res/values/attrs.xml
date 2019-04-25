@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- JuicyFillingRingView todo-->
-    <attr name="ringFillColor" format="color" />
+    <attr name="drawCap" format="boolean" />
 
-    <!-- JuicySkillNodeView todo -->
-    <attr name="drawCap" format="boolean"/>
+    <declare-styleable name="JuicyFillingRingView">
+        <attr name="ringFillColor" format="color" />
+        <attr name="progress" format="float" />
+        <attr name="diameterFraction" format="float" />
+        <attr name="drawCap" />
+        <attr name="capWidth" format="integer" />
+        <attr name="capLength" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="JuicySkillNodeView">
+        <attr name="drawCap" />
+    </declare-styleable>
 
     <!-- AppCompatImageView  todo What does this do?-->
     <attr name="aspectRatio" format="float" />
