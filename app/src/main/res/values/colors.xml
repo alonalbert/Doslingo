@@ -4,11 +4,40 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 
+    <color name="juicyAlbino">#ebe3e3</color>
+    <color name="juicyAnchovy">#d2e4e8</color>
     <color name="juicyBee">#ffc800</color>
+    <color name="juicyBeetle">#ce82ff</color>
+    <color name="juicyBetta">#9069cd</color>
+    <color name="juicyBlack20">#33000000</color>
+    <color name="juicyBlack50">#80000000</color>
+    <color name="juicyBlueJay">#47d7ff</color>
+    <color name="juicyCardinal">#ff4b4b</color>
+    <color name="juicyCheetah">#ffce8e</color>
+    <color name="juicyDuck">#ffd900</color>
+    <color name="juicyEel">#4b4b4b</color>
+    <color name="juicyFacebookBlue">#3b5998</color>
+    <color name="juicyFireAnt">#ea2b2b</color>
+    <color name="juicyFlamingo">#ffc1c1</color>
     <color name="juicyFox">#ff9600</color>
+    <color name="juicyGhost">#f7f7f7</color>
     <color name="juicyGuineaPig">#cd7900</color>
+    <color name="juicyHare">#afafaf</color>
+    <color name="juicyHumpback">#2b70c9</color>
+    <color name="juicyIguana">#ddf4ff</color>
+    <color name="juicyMacaw">#1cb0f6</color>
+    <color name="juicyOwl">#78c800</color>
+    <color name="juicyPig">#f5a4a4</color>
+    <color name="juicySeaSponge">#b8f28b</color>
     <color name="juicySnow">#fffffd</color>
     <color name="juicySwan">#e5e5e5</color>
+    <color name="juicyTransparent">#00000000</color>
+    <color name="juicyTreeFrog">#58a700</color>
+    <color name="juicyTurtle">#ade756</color>
+    <color name="juicyWalkingFish">#ffd7d8</color>
+    <color name="juicyWhale">#1899d6</color>
+    <color name="juicyWhite50">#80ffffff</color>
+    <color name="juicyWolf">#777777</color>
 
     <color name="blue_button_enabled">@color/blue</color>
 

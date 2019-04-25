@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <attr name="drawCap" format="boolean" />
+    <attr name="progress" format="float" />
 
     <declare-styleable name="JuicyFillingRingView">
         <attr name="ringFillColor" format="color" />
-        <attr name="progress" format="float" />
+        <attr name="progress" />
         <attr name="diameterFraction" format="float" />
         <attr name="drawCap" />
         <attr name="capWidth" format="integer" />
@@ -12,7 +13,7 @@
     </declare-styleable>
 
     <declare-styleable name="JuicySkillNodeView">
-        <attr name="drawCap" />
+        <attr name="progress" />
     </declare-styleable>
 
     <!-- AppCompatImageView  todo What does this do?-->

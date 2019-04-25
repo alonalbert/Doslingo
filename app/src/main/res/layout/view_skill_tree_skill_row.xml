@@ -30,7 +30,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/juicyLengthHalf"
             android:layout_marginEnd="@dimen/juicyLengthHalf"
-            app:drawCap="false"
             app:layout_constraintEnd_toStartOf="@+id/skillNode3"
             app:layout_constraintStart_toEndOf="@+id/skillNode1"
             app:layout_constraintTop_toTopOf="parent" />
